@@ -5,7 +5,7 @@ Components:
 
 - TTGO T-Call V1.3 ESP32. It is a dev board with the ESP32 microcontroller and a SIM800L GSM module.
 - I used a 18650 battery shield for power. It has voltage retgulator to give 5 and 3.3 V. It is also already prepared to charge the battery via micro-USB.
-- To measure the pressure I used a sensor which is power with 5 V and gives a signal between 0 and 4.5 V.
+- To measure the pressure I used a sensor which is power with 5 V and gives a signal between 0 and 4.5 V, which corresponds from 0 to 12 bar.
 
 
 Diagram:
