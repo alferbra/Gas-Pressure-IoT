@@ -2,4 +2,4 @@
 Check pressure of a gas tank with dev board TTGO T-Call V1.3 ESP32. Project made with PlatformIO in Visual Studio Code
 
 Diagram:
-https://github.com/alferbra/Gas-Pressure-IoT/blob/main/img/Diagram.png
+![alt text](https://github.com/alferbra/Gas-Pressure-IoT/blob/main/img/Diagram.png?raw=true)
